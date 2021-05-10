@@ -89,7 +89,7 @@
     "hover.css": "^2.3.2",
     "intl": "1.2.5",
     "js-cookie": "2.2.0",
-    "lodash": "4.17.10",
+    "lodash": "4.17.21",
     "lodash.clonedeep": "4.5.0",
     "md5": "2.2.1",
     "mobx": "^3.5.1",
